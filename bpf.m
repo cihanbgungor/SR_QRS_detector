@@ -1,7 +1,6 @@
 % Band-pass filter that is used to filter ECG signal + noise
 
 % Written by Cihan Berk Gungor 
-% Please cite: C. B. Güngör, P. P. Mercier, and H. Töreyin, "A Stochastic Resonance Electrocardiogram Enhancement Algorithm for Robust QRS Detection" in IEEE Journal of Body Healtcare Informatics (IEEE JBHI).
 
 % bpf function is used in Main_SR_ECG_for_MITBIH_Arrhythmia.m file which is
 % the main file to run SR-based pre-emphasis method on ECG recordings from 
