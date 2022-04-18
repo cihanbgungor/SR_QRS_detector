@@ -3,7 +3,6 @@
 % coefficient adjustment
 
 % Written by Cihan Berk Gungor 
-% Please cite: C. B. Güngör, P. P. Mercier, and H. Töreyin, "A Stochastic Resonance Electrocardiogram Enhancement Algorithm for Robust QRS Detection" in IEEE Journal of Body Healtcare Informatics (IEEE JBHI).
 
 % ud_mono_SR_for_MITBIH_Arrhythmia(a,b,dr_in, h,u,x1) function is used in 
 % Main_SR_ECG_for_MITBIH_Arrhythmia.m file which is the main file to run 
