@@ -1,7 +1,6 @@
 %% The main matlab file that recordings loaded from the database and QRS enhancement done by Stochastic Resonance (SR) 
 
 % Written by Cihan Berk Gungor 
-% Please cite: C. B. Güngör, P. P. Mercier, and H. Töreyin, "A Stochastic Resonance Electrocardiogram Enhancement Algorithm for Robust QRS Detection" in IEEE Journal of Body Healtcare Informatics (IEEE JBHI).
 
 % The main file to run SR QRS enhancement algorithm on MIT-BIH Arrhythmia
 % database (Other Physionet databases may also run easily with small changes)
